@@ -1,0 +1,3 @@
+pika
+cerberus
+psycopg2-binary
